@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.png" alt="Shail Tyagi banner" width="100%" />
+  <img src="banner.png" alt="Shail Tyagi banner" width="100%" />
 
   <h1>Hi, I'm Shail Tyagi 👋</h1>
 
